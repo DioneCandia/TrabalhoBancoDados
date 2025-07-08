@@ -1,7 +1,6 @@
 # TrabalhoBancoDados
 Projeto final da disciplina de Banco de Dados - UFSC
-# Projeto Benedito — Rastreio e Logística de Alimentos Doáveis
-
+# Projeto Benedito — Rastreio e Logística de Alimentos 
 Este repositório contém o código-fonte e os materiais do trabalho final da disciplina de Banco de Dados (UFSC - Campus Araranguá), 2025.
 
 ## 🎯 Objetivo
@@ -12,7 +11,7 @@ Criar uma aplicação com banco de dados funcional e seguro para gerenciar doaç
 
 ## 🧱 Estrutura do Projeto
 
-# Projeto Benedito — Rastreio e Logística de Alimentos Doáveis
+# Projeto Benedito — Rastreio e Logística de Alimentos para doação
 
 Este repositório contém o código-fonte e os materiais do trabalho final da disciplina de Banco de Dados (UFSC - Campus Araranguá), 2025.
 
@@ -41,7 +40,4 @@ Criar uma aplicação com banco de dados funcional e seguro para gerenciar doaç
 - Relatórios analíticos com gráficos (consultas SQL)
 - Geração de gráficos com matplotlib
 - Integração com IA generativa (LLM) [planejado]
-
-## 📘 Relatório
-
-Você pode acessar o relatório final do projeto [clicando aqui](RelatórioBancoDados.pdf) ou diretamente neste repositório.
+  
